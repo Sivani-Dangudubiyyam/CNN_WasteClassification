@@ -1,2 +1,1 @@
-# Week-1
-Waste Management using CNN
+# Waste Management using CNN
