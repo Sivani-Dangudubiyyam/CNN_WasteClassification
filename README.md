@@ -62,6 +62,6 @@ Organize image datasets into **Organic** and **Recyclable** categories.
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/CNN-Waste-Classification.git
-cd CNN-Waste-Classification
+git clone https://github.com/Sivani-Dangudubiyyam/CNN_WasteClassification.git
+cd CNN_WasteClassification
  
