@@ -19,7 +19,6 @@ Waste management is a significant global challenge, and manual waste segregation
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
 🔹 **Libraries:** OpenCV (cv2), NumPy, Pandas, Matplotlib, tqdm  
 🔹 **Development Environments:** Jupyter Notebook, VS Code, Google Colab, Kaggle  
-🔹 **Deployment:** Flask, TensorFlow Serving, Cloud Platforms (AWS, GCP, Azure)  
 
 ---
 
@@ -43,18 +42,12 @@ Organize image datasets into **Organic** and **Recyclable** categories.
 ✔ Check accuracy and loss on the validation dataset  
 ✔ Generate a **confusion matrix** to visualize performance  
 
-### **Step 6: Model Testing & Deployment**  
-✔ Test the model with new unseen waste images  
-✔ Deploy using **Flask API** for real-time predictions  
-
 ---
 
 ## 📊 Results & Performance  
 📌 **Training Accuracy:** ~90%  
 📌 **Validation Accuracy:** ~85-88%  
-📌 **Model Performance Metrics:**  
-✔ Precision, Recall, F1-Score  
-✔ Confusion Matrix for classification performance  
+
 
 ---
 
